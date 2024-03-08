@@ -1,1 +1,2 @@
-# Pizza-Sales
+# Pizza-Sales Project
+I Analyze pizza sales and performance for a pizza restaurant using SQL and Power BI and Explore insights like popular pizza names, sales trends, customer preferences, and ingredient analysis. Visualizing the data using Power BI's interactive dashboards and generating reports summarizing key findings make us take a good review of data and make the best decision for the future.
